@@ -1,0 +1,11 @@
+Turkiye#Sakarya
+ABD#Newyork
+Almanya#Berlin
+ABD#Teksas
+Yunanistan#Atina
+Turkiye#Ankara
+Fransa#Paris
+Italya#Roma
+Danimarka#Kopenhag
+Irlanda#Dublin
+Italya#Venedik
